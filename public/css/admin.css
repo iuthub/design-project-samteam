@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.tablediv{
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+	width:100%;
+	padding: 20px;
+}
+.tablediv2{
+		max-width: 650px;
+	max-height: 650px;
+}
+
+table{
+	width: 1000px;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13);
+}
+th,td{
+	width:110px;
+	height: 50px;
+	 color: #c5ecfd;
+}
+thead{
+	align-items: center;
+}

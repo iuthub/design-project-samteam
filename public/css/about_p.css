@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	font-family: 'Robonto', sans-serif;
+}
+body{
+	background:url('/fonfon.jpg') no-repeat top center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh; 
+}
+.hello{
+		max-width: 100vh;
+	max-height: 15vh;
+	margin: 10px;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	
+	box-shadow:  0 0 10px rgba(0,0,0,0.13); 
+	 color: #c5ecfd;
+	margin: 0 auto;
+}
+.txtcar{
+
+	background: rgba(0,0,0,1.7);
+}
+.thumbnail{
+
+	max-width: 80vh;
+	max-height: 80vh;
+	margin: 10px;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13); 
+	 color: #c5ecfd;
+}
+.list-group{
+	display: flex;
+	flex-direction: row;
+}
+.smalltxt{
+		max-width: 80vh;
+	max-height: 80vh;
+	margin: 10px;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13); 
+	 color: #c5ecfd;
+}
+.smalltxt1{
+	max-width: 100vh;
+	max-height: 80vh;
+	margin: 10px;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13); 
+	 color: #c5ecfd;
+}
+.list-group-item{
+		max-width: 80vh;
+	max-height: 80vh;
+	margin: 10px;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13); 
+	 color: #c5ecfd;
+}
+
+.wrapper{
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+	width:100%;
+	padding: 0 20px;
+}
+
+.about_us{
+	max-width: 80vh;
+	max-height: 80vh;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13);
+}
+
+.cntct_info{
+	
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin-right: 4%;
+
+}
+.info{
+    color: #c5ecfd;
+}
+
+.cntct_info,.map{
+
+}
+.map{
+	width: 40vh;
+	height: 40vh;
+	margin: 0 auto;
+}
+
+
