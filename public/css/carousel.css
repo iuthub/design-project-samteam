@@ -1,0 +1,9 @@
+.carousel{
+width: 130vh;
+height: 60vh;
+margin: 0 auto;
+}
+.carousel-item{
+	width: 130vh;
+	height: 60vh;
+}

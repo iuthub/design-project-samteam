@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.mycontainer{
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+	width:100%;
+	padding: 0 20px;
+}
+.checkoutcss{
+		position: absolute;
+	top:40%;
+	transform: translateY(-50%);
+	width:100%;
+	padding: 0 20px;
+}
+.smalltxt{
+		max-width: 80vh;
+	max-height: 80vh;
+	margin: 10px;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13); 
+	 color: #c5ecfd;
+}
+.card{
+	max-width: 80vh;
+	max-height: 80vh;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	box-shadow:  0 0 10px rgba(0,0,0,0.13);
+	color: #c5ecfd;
+}
+.card-header{
+	text-align: center;
+	font-size: 30px;
+}
