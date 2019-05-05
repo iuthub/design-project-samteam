@@ -1,21 +1,21 @@
-Internet Programming: Design Project Assignment
+# Internet Programming: Design Project Assignment
 
-Project name: SAM Shop
+# Project name: SAM Shop
 
-Team members:
+## Team members:
 
-Eshonkhujaev Javlonkhuja U1710206 
+* Eshonkhujaev Javlonkhuja U1710206 
 
-Abdullaeva Sevara u1710059
+* Abdullaeva Sevara u1710059
 
-Akhmadjanova Madina u1710182
+* Akhmadjanova Madina u1710182
 
-Bakunts Stefaniya u1710280
+* Bakunts Stefaniya u1710280
 
-Durova Yuliya u171010104
+* Durova Yuliya u171010104
 
 
-Link to GitHub:
+## Link to GitHub:
 
-Link to Website:
+## Link to Website:
 
