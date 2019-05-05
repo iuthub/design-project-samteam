@@ -1,4 +1,4 @@
-Internet Programming: Design Project Assignment
+#Internet Programming: Design Project Assignment
 
 Project name: SAM Shop
 
